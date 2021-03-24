@@ -1,0 +1,2 @@
+# Movie-Ticket-Management-System
+This is a web application for managing online movie ticket management system. In this project we used Java. There are four entity  Customer, Employee, Movie, Manager &amp; user. User are filled up a form for register for this website and manager or employee check the details of user then he or she accepts or rejects his application. Then user booked a ticket and at a time user can booked at least 3 ticket and follow the rules and regulations. The whole process monitoring by manger. Manager can add or remove employee.
